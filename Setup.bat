@@ -1,0 +1,1 @@
+copy /Y "%~dp0WinTechAudioDriver.exe" "%USERPROFILE%\Audio\WinTechAudioDriver.exe"
